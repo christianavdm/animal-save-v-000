@@ -9,9 +9,8 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1196px) {
   #bear {
-    top: 100px;
     left: 800px;
   }
 }
